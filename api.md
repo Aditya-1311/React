@@ -1,0 +1,1 @@
+https://api.currencyapi.com/v3/latest?apikey=cur_live_wv9uc4QguDkejWx4WU7mHlS2VZ5mMBrY8o2P6RWz&base_currency=${INR}
